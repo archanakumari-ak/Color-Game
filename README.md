@@ -1,3 +1,4 @@
-# my-first-repo
+Color Game 
+(HTML,CSS,JS)
 
-Color Game (HTML,CSS,JS)
+Match the given rgb value to the correct colour.
